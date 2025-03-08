@@ -30,9 +30,9 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 
 📌 [Excalidraw Board linki](https://excalidraw.com/#json=OscvNmwivJCwDPA8-rNM0,R_ZqH-I1Bko11virdxoqTw)
 
-📂 Datasets bulabileceğiniz kayanklar : 
-🔹 [Hugging Face Datasets](https://huggingface.co/datasets) 
-🔹 [Kaggle Datasets](https://www.kaggle.com/datasets)
+📂 Datasets bulabileceğiniz kaynaklar : 
+- [Hugging Face Datasets](https://huggingface.co/datasets) 
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
 
 📚 Derste önerilen kaynaklar:
 - 📖 [Prompting Guide](https://www.promptingguide.ai/tr)  
