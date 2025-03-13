@@ -86,12 +86,88 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 <details>
 <summary>Click to expand!</summary>
 
+🎭 **Derste kullanılan kaynakların reposu**  
+- 🔗 [Fantastic Prompts & Where to Find Them](https://github.com/gokerguner/devmultigroup-gemini-bootcamp)  
+  *Youtube kanalımızda gerçekleştirdiğimiz canlı yayında gösterdiğim kodların reposu*  
 
+📊 **Speaker Deck Sunum**  
+- 🔗 [Speaker Deck Sunum](https://speakerdeck.com/gokerguner/fantastic-prompts-and-where-to-find-them)  
+  *Sunum Linki*  
+
+📂 **Google AI Studio Prompt Galerisi**  
+- 🔗 [Google AI Studio Prompt Galerisi](https://aistudio.google.com/gallery)  
+  *AI Studio üzerinde kullanabileceğiniz örnek promptların yer aldığı bölüm*  
+
+🛠️ **PromptPerfect**  
+- 🔗 [PromptPerfect](https://promptperfect.jina.ai/interactive)  
+  *Promptlarınızı daha düzgün yazmanıza olanak tanıyan bir yardımcı araç*  
+
+📜 **Google Developers Prompt Engineering Guide**  
+- 🔗 [Google Developers Prompt Engineering Guide](https://developers.google.com/machine-learning/resources/prompt-eng)  
+  *Google'ın Developerlar için hazırladığı Prompt Engineering dokümanı*  
+
+☁️ **Google Cloud Prompt Engineering Guide**  
+- 🔗 [Google Cloud Prompt Engineering Guide](https://cloud.google.com/discover/what-is-prompt-engineering?hl=tr)  
+  *Google Cloud'un Prompt Engineering dokümanı*  
+
+🧠 **Google Vertex AI Prompt Design Guide**  
+- 🔗 [Google Vertex AI Prompt Design Guide](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design)  
+  *Google'ın Uçtan Uca Cloud ML Platformu Vertex AI'ın Prompt dokümanı*  
+
+🎯 **Open AI Prompt Engineering Best Practices**  
+- 🔗 [Open AI Prompt Engineering Best Practices](https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt)  
+  *Open AI'ın Prompt Engineering Dokümanı*  
+
+🌀 **Claude Unclear Prompt Example Artifact**  
+- 🔗 [Claude Unclear Prompt Example Artifact](https://claude.site/artifacts/c85e8b54-028a-4c13-89c5-5c915ec3e4e2)  
+  *Altıgen İçinde Dönen Top (Yerçekimsiz)*  
+
+⚖️ **Claude Clear Prompt Example Artifact**  
+- 🔗 [Claude Clear Prompt Example Artifact](https://claude.site/artifacts/92e1552b-9256-4164-acc6-5c0c70479e96)  
+  *Altıgen İçinde Dönen Top (Yerçekimi ve Sürtünme Dahil)*  
+
+📌 **Claude SaaS Main Page Artifact**  
+- 🔗 [Claude SaaS Main Page Artifact](https://claude.site/artifacts/a17acb45-5ffc-4a57-8cf4-34a65dbd41a5)  
+  *SaaS ürünü Ana Sayfa Örneği*  
+
+🤖 **Open AI Prompt Examples**  
+- 🔗 [Open AI Prompt Examples](https://platform.openai.com/docs/examples)  
+  *Open AI Örnek Promptlar*  
+
+🔎 **Open AI Prompt Techniques for Reasoning Models**  
+- 🔗 [Open AI Prompt Techniques for Reasoning Models](https://platform.openai.com/docs/guides/reasoning-best-practices#how-to-prompt-reasoning-models-effectively)  
+  *Open AI'dan Reasoning Modelleri için Prompt Engineering Kılavuzu*  
+
+📝 **Artifact Examples From Claude**  
+- 🔗 [Artifact Examples From Claude](https://madewithclaude.com/)  
+  *Claude'dan Örnek Promptlar ve Çıktıları*  
+
+🆓 **Free For Developers**  
+- 🔗 [Free For Developers](https://free-for.dev/#/)  
+  *Tamamen veya Kısmen Ücretsiz API, Yazılım Araçları vb. binlerce kaynağın olduğu bir developer platformu*  
+
+📂 **Anthropic Prompt Engineering Examples**  
+- 🔗 [Anthropic Prompt Engineering Examples](https://github.com/anthropics/courses/tree/b4f26aedef55e06ad5eead5de83985249d1fab2f/prompt_engineering_interactive_tutorial/Anthropic%201P)  
+  *Anthropic Prompt Engineering Örnekleri Github Reposu*  
+
+🚀 **Cursor.New**  
+- 🔗 [Cursor.New](https://www.cursor.new/project)  
+  *Bir Türk geliştirici tarafından yapılan, projeleriniz için Cursor Rules oluşturmada size rehberlik edecek bir yardımcı araç*  
 
 
 </details>
 
 ### [Ders 4: Prompt Engineering Methods](https://www.youtube.com/watch?v=-lLNMt_JU_4) - [Daron Yondem](https://github.com/daronyondem)
+<details>
+<summary>Click to expand!</summary>
+
+
+
+
+</details>
+
+
+### [Ders 5: Prompt Engineering Fundamentals](https://www.youtube.com/watch?v=OSSe1fzhXnw) - [Fatih Kadir Akın](https://github.com/f)
 <details>
 <summary>Click to expand!</summary>
 
