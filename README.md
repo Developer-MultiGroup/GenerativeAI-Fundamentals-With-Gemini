@@ -161,6 +161,22 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 <details>
 <summary>Click to expand!</summary>
 
+📂 **Ders İçeriğine Ait Kod Örnekleri**  
+- 🔗 [Ders İçeriğine Ait Kod Örnekleri](https://github.com/daronyondem/codesamples/tree/main/OpenAI/prompt-engineering)  
+  *Daron Yöndem'in Prompt Engineering dersine ait kod örnekleri*  
+
+🎥 **Retrieval Augmented Generation'a Giriş**  
+- 🔗 [Retrieval Augmented Generation'a Giriş (YouTube)](https://www.youtube.com/watch?v=WUxksE41woY)  
+  *Retrieval-Augmented Generation (RAG) tekniğine giriş videosu*  
+
+🎥 **Sıfırdan Azure OpenAI**  
+- 🔗 [Sıfırdan Azure OpenAI (YouTube)](https://www.youtube.com/watch?v=J09R0Z5cjA8)  
+  *Azure OpenAI'yi sıfırdan kurma ve kullanma rehberi*  
+
+🎥 **Epic AI Dev 2023 - PromptFlow Session**  
+- 🔗 [Epic AI Dev 2023 - PromptFlow Session (YouTube)](https://www.youtube.com/watch?v=4z-3SkV5av8)  
+  *PromptFlow ile AI iş akışlarını yönetmeye dair kapsamlı bir sunum*  
+
 
 
 
@@ -168,6 +184,16 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 
 
 ### [Ders 5: Prompt Engineering Fundamentals](https://www.youtube.com/watch?v=OSSe1fzhXnw) - [Fatih Kadir Akın](https://github.com/f)
+<details>
+<summary>Click to expand!</summary>
+
+
+
+
+</details>
+
+
+### [Ders 6: LLM Parameters](https://www.youtube.com/watch?v=yRraDgrZees) - [Tolga Kurtuluş](https://github.com/tolgakurtuluss)
 <details>
 <summary>Click to expand!</summary>
 
