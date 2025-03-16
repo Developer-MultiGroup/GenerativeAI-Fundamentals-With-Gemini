@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/0d70fe1b-90f8-4190-9da8-978db266381f)# GenerativeAI Fundamentals With Gemini Course
 
 
 ![Gemini API by Google Course (2)](https://github.com/user-attachments/assets/a3800fae-9201-4f8d-a111-b424ad1cb135)
