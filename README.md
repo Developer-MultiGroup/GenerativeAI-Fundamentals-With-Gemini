@@ -1,4 +1,4 @@
-
+# GenerativeAI Fundamentals With Gemini Course
 
 ![Gemini API by Google Course (2)](https://github.com/user-attachments/assets/a3800fae-9201-4f8d-a111-b424ad1cb135)
 
