@@ -1,4 +1,4 @@
-# GenerativeAI Fundamentals With Gemini Course
+![image](https://github.com/user-attachments/assets/0d70fe1b-90f8-4190-9da8-978db266381f)# GenerativeAI Fundamentals With Gemini Course
 
 
 ![Gemini API by Google Course (2)](https://github.com/user-attachments/assets/a3800fae-9201-4f8d-a111-b424ad1cb135)
@@ -187,13 +187,46 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 <details>
 <summary>Click to expand!</summary>
 
+📌 **LLM'lerin Çalışma Mekanizmasını Görselleştiren Kaynak**  
+- 🔗 [LLM Viz TR](https://llm-viz-tr.vercel.app/)  
+  *LLM'lerin nasıl çalıştığına dair kapsamlı bir görselleştirme sunan site*  
 
+📌 **FKA Awesome ChatGPT Prompt Reposu**  
+- 🔗 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)  
+  *ChatGPT için en iyi prompt örneklerini içeren repo*  
+
+📌 **Prompt Reposunun Web Sitesi**  
+- 🔗 [Prompts.chat](https://prompts.chat/)  
+  *Hazır ve optimize edilmiş prompt örneklerini keşfetmek için site*  
+
+📌 **Fatih Kadir Akın'ın Takip Ettiği Reddit Sayfaları**  
+- 🔗 [r/coding](https://www.reddit.com/r/coding/)  
+- 🔗 [r/databases](https://www.reddit.com/r/databases/)  
+- 🔗 [r/programming](https://www.reddit.com/r/programming/)  
+- 🔗 [r/browsers](https://www.reddit.com/r/browsers/)  
+- 🔗 [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)  
+- 🔗 [r/javascript](https://www.reddit.com/r/javascript/)  
+- 🔗 [r/technology](https://www.reddit.com/r/technology/)  
+
+📌 **Güncel Teknoloji Haberlerini Takip Etmek İçin**  
+- 🔗 [Hacker News](https://news.ycombinator.com/)  
+  *Teknoloji dünyasındaki en güncel haberleri takip edebileceğiniz platform*  
 
 
 </details>
 
 
 ### [Ders 6: LLM Parameters](https://www.youtube.com/watch?v=yRraDgrZees) - [Tolga Kurtuluş](https://github.com/tolgakurtuluss)
+<details>
+<summary>Click to expand!</summary>
+
+
+
+
+</details>
+
+
+### [Ders 7: Basic Chatbot Deployment & Final Project Details](https://www.youtube.com/watch?v=3if2pvH8JzA) - [Enes Fehmi Manan](https://github.com/enesmanan)
 <details>
 <summary>Click to expand!</summary>
 
