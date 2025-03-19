@@ -219,7 +219,37 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 <details>
 <summary>Click to expand!</summary>
 
+📂 **Tolga Hoca'nın Derste Yazdığı Notebook ve Kaynaklar**  
+- 🔗 [GitHub Sunum ve Notebook](https://github.com/tolgakurtuluss/gemini_api_sunum)  
+  *Tolga Kurtluluş’un Gemini API dersine ait kod örnekleri ve kaynaklar*  
 
+🌍 **Gemini Teknolojileri Hakkında Bilgi Alabileceğiniz Site**  
+- 🔗 [Google DeepMind - Gemini](https://deepmind.google/technologies/gemini/)  
+  *Google DeepMind tarafından geliştirilen Gemini modelleri hakkında detaylı bilgiler*  
+
+📊 **Yapay Zeka ve Model Analizleri**  
+- 🔗 [Artificial Analysis](https://artificialanalysis.ai/)  
+  *Yapay zeka ve büyük dil modelleri üzerine detaylı analizler*  
+
+💡 **Google AI Studio ile Prompt Geliştirme**  
+- 🔗 [Google AI Studio - Yeni Chat](https://aistudio.google.com/prompts/new_chat)  
+  *Google AI Studio üzerinde yeni bir sohbet başlatıp prompt geliştirme ortamı*  
+
+📚 **Google AI Geliştirici Kaynakları**  
+- 🔗 [Google AI Developer](https://ai.google.dev/)  
+  *Google AI tarafından geliştiricilere sunulan kaynaklar ve API dokümantasyonu*  
+
+📖 **Gemini API Cookbook ve Örnek Kullanımlar**  
+- 🔗 [Gemini API Cookbook](https://ai.google.dev/gemini-api/cookbook)  
+  *Gemini API ile geliştirme yaparken kullanılabilecek örnekler ve rehberler*  
+
+🔄 **cURL Komutlarını Farklı Dillere Çevirme Aracı**  
+- 🔗 [cURL Converter](https://curlconverter.com/)  
+  *cURL komutlarını Python, JavaScript ve diğer dillere dönüştürmek için araç*  
+
+🎥 **LLM Ne Der? YouTube Videosu**  
+- 🔗 [LLM Ne Der? - YouTube](https://www.youtube.com/watch?v=ba7jV79qmZU&t=1s)  
+  *Büyük dil modellerinin nasıl çalıştığını anlatan kapsamlı bir sunum*  
 
 
 </details>
@@ -233,3 +263,13 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 
 
 </details>
+
+### [Ders 8: LLM Parameters](https://www.youtube.com/watch?v=yRraDgrZees) - [Tolga Kurtuluş](https://github.com/tolgakurtuluss)
+<details>
+<summary>Click to expand!</summary>
+
+
+
+
+</details>
+
