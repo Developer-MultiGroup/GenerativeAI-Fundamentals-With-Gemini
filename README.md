@@ -215,7 +215,7 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 </details>
 
 
-### [Ders 6: LLM Parameters](https://www.youtube.com/watch?v=yRraDgrZees) - [Tolga Kurtuluş](https://github.com/tolgakurtuluss)
+### [Ders 6: Gemini API details](https://www.youtube.com/watch?v=A88XskCu-Vc) - [Tolga Kurtuluş](https://github.com/tolgakurtuluss)
 <details>
 <summary>Click to expand!</summary>
 
