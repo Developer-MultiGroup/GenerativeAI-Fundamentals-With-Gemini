@@ -272,7 +272,7 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
   *Enes Fehmi Manan'ın sunum dosyası*  
 
 📌 **Final Proje Dokümanı (Teslim Tarihi: 15 Nisan)**  
-> - 📥 **[Final Proje Dokümanını](https://drive.google.com/file/d/1zb1FOOGMWm3WCIEWGjbDqOgONHs1rt-u/view)**  
+> - 📥 **[Final Proje Dokümanını Görüntüleyin](https://drive.google.com/file/d/1zb1FOOGMWm3WCIEWGjbDqOgONHs1rt-u/view)**  
 
 🌍 **Güncel AI Gelişmelerini Takip Etmek İçin**  
 - 🔗 [AlphaSignal AI Newsletter](https://alphasignal.ai/)  
