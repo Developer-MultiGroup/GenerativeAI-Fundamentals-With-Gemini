@@ -258,7 +258,37 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 ### [Ders 7: Basic Chatbot Deployment & Final Project Details](https://www.youtube.com/watch?v=3if2pvH8JzA) - [Enes Fehmi Manan](https://github.com/enesmanan)
 <details>
 <summary>Click to expand!</summary>
+ 
+📂 **Örnek Deploy Uygulamaları**  
+- 🔗 [Chatbot Deployment Reposu](https://github.com/enesmanan/chatbot-deploy)  
+  *Streamlit, Gradio ve HTML/CSS/JS/Flask ile chatbot deploy örnekleri*  
 
+📂 **Final Proje İçin Minimal Örnek**  
+- 🔗 [Paper-Bold Reposu](https://github.com/enesmanan/paper-bold)  
+  *Final proje için minimal bir chatbot deploy örneği ve reposu*  
+
+📂 **Sunum Linki**  
+- 🔗 [Basic Chatbot Deployment & Final Project Details](https://speakerdeck.com/enesfehmimanan/basic-chatbot-deployment-and-final-project-details)  
+  *Enes Fehmi Manan'ın sunum dosyası*  
+
+📌 **Final Proje Dokümanı (Teslim Tarihi: 15 Nisan)**  
+> - 📥 **[Final Proje Dokümanını](https://drive.google.com/file/d/1zb1FOOGMWm3WCIEWGjbDqOgONHs1rt-u/view)**  
+
+🌍 **Güncel AI Gelişmelerini Takip Etmek İçin**  
+- 🔗 [AlphaSignal AI Newsletter](https://alphasignal.ai/)  
+  *Güncel AI haberleri, top tutoriallar ve repolar*  
+- 🔗 [AI Paper'ları Newsletter](https://www.linkedin.com/newsletters/top-ai-papers-of-the-week-7020865424875474944/)  
+  *Akademik taraftaki AI gelişmelerini takip etmek için*  
+- 🔗 [Günlük AI Trendleri](https://hype.replicate.dev/)  
+  *Reddit, GitHub, Replicate, HuggingFace’de hype olan AI projeleri*  
+
+🛠 **Repolar**  
+- 🔗 [GenAI Agents Reposu](https://github.com/NirDiamant/GenAI_Agents)  
+  *Konsept olarak ilham alabileceğiniz bir repo*  
+- 🔗 [RAG Teknikleri Reposu](https://github.com/NirDiamant/RAG_Techniques)  
+  *Farklı RAG tekniklerini derinlemesine gösteren bir repo*  
+- 🔗 [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)  
+  *LLM'ler ile alakalı neredeyse tüm büyük tooları derleyen repo*  
 
 
 
