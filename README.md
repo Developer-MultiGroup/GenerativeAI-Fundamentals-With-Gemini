@@ -298,8 +298,54 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 <details>
 <summary>Click to expand!</summary>
 
+📌 **Tolga Kurtuluş’un Sunumu**  
+- 🔗 [Tolga Kurtuluş’un sunumu](https://www.canva.com/design/DAGiWYAnCI4/UM-um2h9jaANjv18gejfPw/edit)  
+  *Ders sırasında kullanılan sunum dosyası*  
+
+📌 **Common Crawl: Büyük Dil Modelleri İçin Açık Veri Deposu**  
+- 🔗 [Common Crawl](https://commoncrawl.org/)  
+  *Büyük ölçekli web tarama verilerini ücretsiz ve açık bir şekilde sunan proje*  
+
+📌 **Tokenizasyon Kavramını Anlamak İçin Güzel Bir Site**  
+- 🔗 [Tiktokenizer](https://tiktokenizer.vercel.app/)  
+  *Metinlerin tokenlara nasıl dönüştüğünü görselleştiren interaktif araç*  
+
+📌 **Andrej Karpathy'nin "Let's build the GPT Tokenizer" Videosu**  
+- 🔗 [Let's build the GPT Tokenizer - YouTube](https://www.youtube.com/watch?v=zduSFxRajkE)  
+  *Andrej Karpathy'nin tokenizasyon sürecini anlattığı video*  
+
+📌 **Hugging Face NLP Kursu**  
+- 🔗 [Hugging Face NLP Kursu](https://huggingface.co/learn/nlp-course/en/chapter1/1)  
+  *Doğal dil işleme konusunda kapsamlı bir eğitim serisi*  
+
+📌 **Transformer Modelleri Nasıl Çalışır?**  
+- 🔗 [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)  
+  *Transformer mimarisini adım adım görselleştiren interaktif rehber*  
 
 
 
 </details>
+
+
+
+### [Ders 9: Advanced RAG](https://www.youtube.com/watch?v=RagWOl2fg6Y) - [Bilge Yücel](https://github.com/bilgeyucel)
+<details>
+<summary>Click to expand!</summary>
+
+
+
+
+</details>
+
+
+### [Ders 10: Optimization Areas for RAG Applications](https://www.youtube.com/watch?v=EzL2ANUeLzg) - [Emrah Mete](https://github.com/emrahmete)
+<details>
+<summary>Click to expand!</summary>
+
+
+
+
+</details>
+
+
 
