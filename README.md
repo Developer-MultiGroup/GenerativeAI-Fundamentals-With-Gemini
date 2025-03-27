@@ -332,7 +332,9 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 <details>
 <summary>Click to expand!</summary>
 
-
+📂 **Sunum Linki**  
+- 🔗 [Advanced RAG](https://speakerdeck.com/bilgeyucel/advanced-rag)  
+  *Bilge Yücel'ın sunum dosyası*  
 
 
 </details>
