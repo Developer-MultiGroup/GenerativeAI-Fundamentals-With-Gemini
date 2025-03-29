@@ -350,4 +350,12 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 </details>
 
 
+### [Ders 11: Advanced RAG Notebook](https://www.youtube.com/watch?v=fXkeYK-hL6c) - [Bilge Yücel](https://github.com/bilgeyucel)
+<details>
+<summary>Click to expand!</summary>
 
+
+📂 **Derste kodlanan projenin reposu**  
+- 🔗 [Multidevgroup Avanced RAG](https://github.com/bilgeyucel/multidevgroup-advanced-rag)  
+
+</details>
