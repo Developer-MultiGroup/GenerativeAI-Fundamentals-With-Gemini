@@ -359,3 +359,33 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 - 🔗 [Multidevgroup Avanced RAG](https://github.com/bilgeyucel/multidevgroup-advanced-rag)  
 
 </details>
+
+
+</details>
+
+
+### [Ders 12: Beyond the Prompt: Evaluating, Testing & Securing LLM Applications](https://www.youtube.com/watch?v=CgMdeW0DzEI) - [Mete Atamel](https://github.com/meteatamel)
+<details>
+<summary>Click to expand!</summary>
+
+📌 **Mete Atamel’in sunumu**  
+- 🔗 [Mete Atamel’in sunumu](https://speakerdeck.com/meteatamel/beyond-the-prompt-evaluating-testing-and-securing-llm-applications)  
+  *Ders sırasında kullanılan sunum dosyası*
+
+📌 **Ders içeriğine ait kod örnekleri**
+- 🔗 [Ders içeriğine ait kod örnekleri](https://github.com/meteatamel/genai-beyond-basics)
+
+ 📌 **OWASP Top 10 for LLM Applications**
+- 🔗 [WASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+
+
+</details>
+
+
+### [Ders 13: What is an agent? LLM Agent Examples](https://www.youtube.com/watch?v=I3WF5SJ82z4) - [Şeyma Sarigil](https://github.com/seymasa)
+<details>
+<summary>Click to expand!</summary>
+
+
+
+</details>
