@@ -382,9 +382,55 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 </details>
 
 
-### [Ders 13: What is an agent? LLM Agent Examples](https://www.youtube.com/watch?v=I3WF5SJ82z4) - [Şeyma Sarigil](https://github.com/seymasa)
+### [Ders 13: What is Fine Tuning](https://www.youtube.com/watch?v=rc00veUeSrA) - [Selin Çıldam](https://github.com/selincildam)
 <details>
 <summary>Click to expand!</summary>
+
+📂 **Derste kullanılan Notebook**  
+- 🔗 [Gemma 7B Fine Tuning Notebook](https://www.kaggle.com/code/eselinildam/gemma-7b-ft)  
+  *Selin Çıldam’ın Gemma 7B modeli üzerinde adım adım fine tuning uygulamasını içeren Kaggle notebook’u*
+
+📂 **Selin Çıldam HF Profili**  
+- 🔗 [Selin Çıldam – Hugging Face Profili](https://huggingface.co/selincildam)  
+  *Selin Çıldam’ın Hugging Face üzerindeki modelleri ve projeleri*
+
+📚 **Teknik Makaleler & Kaynaklar**  
+- 🔗 [Fine Tuning vs PEFT – Practical Guide](https://medium.com/@whyamit404/fine-tuning-vs-peft-parameter-efficient-fine-tuning-a-practical-guide-3844e5688000)  
+  *Fine tuning ve PEFT yöntemlerinin farklarını pratik örneklerle anlatan rehber yazı*
+
+- 🔗 [LoRA Nedir? – Yapısal Anlatım](https://ai.plainenglish.io/understanding-low-rank-adaptation-lora-for-efficient-fine-tuning-of-large-language-models-082d223bb6db)  
+  *Low-Rank Adaptation (LoRA) tekniğinin teknik detayları ve kullanım senaryoları*
+
+- 🔗 [Quantization Nedir? – Giriş](https://medium.com/@techresearchspace/what-is-quantization-in-llm-01ba61968a51)  
+  *Quantization kavramının LLM'lerde nasıl çalıştığını açıklayan temel makale*
+
+- 🔗 [Quantization El Kitabı](https://towardsdatascience.com/the-ultimate-handbook-for-llm-quantization-88bb7cb0d9d7)  
+  *Farklı quantization tekniklerinin avantajları, türleri ve uygulamaları üzerine kapsamlı bir kaynak*
+
+- 🔗 [Sayısal Değerlerin Temsili](https://www.maartengrootendorst.com/blog/quantization/#how-to-represent-numerical-values)  
+  *Quantization bağlamında FP16, INT8 gibi sayı formatlarının temsil yöntemleri*
+
+- 🔗 [Model Nicelimeyi Derinlemesine Öğreniyoruz](https://cbarkinozer.medium.com/model-nicelmeyi-quantization-%C4%B1-derinlemesine-%C3%B6%C4%9Freniyoruz-4afb7b1d773c)  
+  *Quantization sürecini Türkçe olarak detaylandıran yerli kaynak*
+
+
+ 
+</details>
+
+### [Ders 14: AI Agents Unmasked: Agents Nedir Kimdir?](https://www.youtube.com/watch?v=Mgh_h8hRrcc) - [Erhan Meydan](https://github.com/erhanmeydan)
+<details>
+<summary>Click to expand!</summary>
+
+
+
+
+</details>
+
+### [Ders 15: What is an agent? LLM Agent Examples]() - [Şeyma Sarigil](https://github.com/seymasa)
+<details>
+<summary>Click to expand!</summary>
+
+
 
 
 
