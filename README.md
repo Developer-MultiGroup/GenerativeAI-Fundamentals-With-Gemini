@@ -387,6 +387,10 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 <summary>Click to expand!</summary>
 
 📂 **Derste kullanılan Notebook**  
+- 🔗 [Fine Tuning](https://speakerdeck.com/selincildam/fine-tuning)  
+    *Selin Çıldam'ın sunum dosyası*  
+
+📂 **Derste kullanılan Notebook**  
 - 🔗 [Gemma 7B Fine Tuning Notebook](https://www.kaggle.com/code/eselinildam/gemma-7b-ft)  
   *Selin Çıldam’ın Gemma 7B modeli üzerinde adım adım fine tuning uygulamasını içeren Kaggle notebook’u*
 
