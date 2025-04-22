@@ -425,12 +425,14 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer: <br>
 <details>
 <summary>Click to expand!</summary>
 
+- 📺 [Erhan Meydan’ın YouTube Kanalı](https://www.youtube.com/@erhanmeydan)  
 
+- 🔗 [ModelContextProtocol GitHub Reposu](https://github.com/modelcontextprotocol)  
 
 
 </details>
 
-### [Ders 15: What is an agent? LLM Agent Examples]() - [Şeyma Sarigil](https://github.com/seymasa)
+### [Ders 15: What is an agent? LLM Agent Examples](https://www.youtube.com/watch?v=EZoIfT__Ypk) - [Şeyma Sarigil](https://github.com/seymasa)
 <details>
 <summary>Click to expand!</summary>
 
